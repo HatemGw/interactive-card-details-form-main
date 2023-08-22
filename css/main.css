@@ -105,7 +105,7 @@ body {
 @media (min-width: 1440px) {
   .card {
     min-height: 100vh;
-    background-image: url("../../images/bg-main-desktop.png");
+    background-image: url("../images/bg-main-desktop.png");
     background-repeat: repeat-y;
     background-position: top left;
   }
